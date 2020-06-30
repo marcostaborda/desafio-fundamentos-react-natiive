@@ -29,7 +29,7 @@ export const ProductList = styled(
   padding: 0 10px;
 `;
 
-export const Product = styled.View`
+export const ProductItem = styled.View`
   background: #fff;
   padding: 16px 16px;
   border-radius: 5px;
